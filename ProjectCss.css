@@ -49,13 +49,13 @@ header {
     cursor: pointer;
 }
 
-.nav-links {
+.options {
     display: flex;
     color: white;
     margin-left: 20px;
 }
 
-.nav-links > div {
+.options > div {
     margin-left: 15px;
     cursor: pointer;
 }
